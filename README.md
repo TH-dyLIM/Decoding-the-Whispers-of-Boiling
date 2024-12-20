@@ -14,7 +14,7 @@ Welcome to the official repository for our research on "Decoding the Whispers of
 - **Broad applicability and industrial impact:** The proposed method not only delivers ±20% accuracy for critical boiling parameters and ~98% classification accuracy but also generalizes well to flow boiling scenarios. Its successful application across varying conditions can enhance safety margins, operational efficiency, and real-time control in diverse thermal energy systems.
 
 ## Contact & Collaboration
-For inquiries, collaborations, or feedback, please reach out to the first author, Do Yeong Lim, at [dylim@unist.ac.kr](mailto:dylim@unist.ac.kr).
+For inquiries, collaborations, or feedback, please reach out to the first author, Doyeong Lim, at [dylim@unist.ac.kr](mailto:dylim@tamu.edu).
 
 I appreciate your interest in our research. We hope our work contributes to the advancement of real-time surveillance and safety protocols in high-risk facilities.
 ---
