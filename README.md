@@ -6,7 +6,7 @@ Welcome to the official repository for our research on "Decoding the Whispers of
 - **Yang Liu**
 - **In Cheol Bang** (Corresponding Author)
 
-**Email (Doyeong Lim):** [dylim@unist.ac.kr]
+**Email (Doyeong Lim):** [dylim@tamu.edu]
 
 ## Research Highlights
 - **Nonintrusive acoustic-based monitoring:** Our approach uses external acoustic signals, eliminating the need for direct visualization or intrusive sensors. This enables accurate boiling diagnostics even in harsh, nontransparent, and radiation-intensive environments.
