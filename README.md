@@ -1,7 +1,7 @@
-# Plant-Abnml-DroneIR-Detection
+# A Deep Learning Framework with Acoustic Signatures for Boiling Monitoring
 
 ## About This Repository
-Welcome to the official repository for our research on "Decoding the Whispers of Boiling: A Deep Learning Framework with Acoustic Signatures for Boiling Monitoring".
+Welcome to the repository for our research on "Decoding the Whispers of Boiling: A Deep Learning Framework with Acoustic Signatures for Boiling Monitoring".
 - **Doyeong Lim**
 - **Yang Liu**
 - **In Cheol Bang** (Corresponding Author)
