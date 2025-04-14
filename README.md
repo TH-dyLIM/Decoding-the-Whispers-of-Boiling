@@ -22,28 +22,26 @@ For inquiries, collaborations, or feedback, please reach out to the first author
 This repository provides an example of how to train and evaluate a Transformer-based model (TF-Spec) for predicting boiling heat flux, heat transfer coefficient (HTC), and boiling regime classification from Acoustic Emission (AE) spectrogram images. The code demonstrates a grid search approach over specified hyperparameters, as well as various training and evaluation steps including data loading, inference, performance metrics, and result visualization.
 
 ## Table of Contents
-1. Prerequisites
-2. Project Structure
-3. Data Preparation
-4. Usage Instructions
-5. Training and Evaluation
-6. Important Notes
-7. Future Extensions
+1. [Prerequisites](#1-prerequisites)  
+2. [Project Structure](#2-project-structure)  
+3. [Data Preparation](#3-data-preparation)  
+4. [Usage Instructions](#4-usage-instructions)  
+5. [Training and Evaluation](#5-training-and-evaluation)  
+6. [Important Notes](#6-important-notes)  
+7. [Future Extensions](#7-future-extensions)  
 
+---
 
 ## 1. Prerequisites
-Before running the code, ensure that your environment meets the following requirements:
+- **Python** 3.7+
+- **PyTorch** 1.10+
+- **torchvision** 0.11+
+- **transformers** (for Vision Transformer support)
+- Other libraries: **NumPy**, **Pandas**, **scikit-learn**, **Matplotlib**, **Seaborn**, **openpyxl**
 
-- Python 3.7+
-- PyTorch 1.10+
-- torchvision 0.11+
-- transformers library (for ViT support)
-- Other Python libraries, such as NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, etc.
-
-You can install all core dependencies with pip:
-
->> pip install torch torchvision transformers pandas scikit-learn matplotlib seaborn openpyxl
-(Adjust the versions to match your environment if needed.)
+Install the core dependencies via:
+```bash
+pip install torch torchvision transformers pandas scikit-learn matplotlib seaborn openpyxl
 
 ## 2. Project Structure
 A typical structure for your repository or local folder could look like:
